@@ -2,10 +2,8 @@
 title: 'Quantum Report'
 description: 'Discover quantum computing without the jargon. Explore superposition, entanglement, and real-world breakthroughs in drug discovery, finance, and cryptography, all explained through stories, analogies, and humour. Perfect for the curious mind, no PhD required.'
 pubDate: 'Jul 15 2025'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-quantum-image.jpg'
 ---
-
-# Welcome to the Quantum World
 
 What comes to mind when you hear the words quantum computing? A blur of convoluted equations? Shiny labs? Something so complex that it is easier to nod politely and move on?
 
@@ -222,16 +220,16 @@ You’ve just absorbed a lot. Molecules, traffic systems, and encryption that pa
 
 ### Wait, so this actually happens?
 
-Yes. Yes, it does. Here are some genuine facts and reactions from the quantum world:
+Yes. Yes, it does. Here are some genuine reactions from the quantum world:
 
 > “If you think you understand quantum mechanics, you don’t.”  
-> — Richard Feynman, Nobel Prize-winning physicist and professional quantum headache.
+> Richard Feynman, Nobel Prize-winning physicist and professional quantum headache.
 
 > “Spooky action at a distance.”  
-> — Albert Einstein, when entanglement made him uncomfortable enough to go full ghost story.
+> Albert Einstein, when entanglement made him uncomfortable enough to go full ghost story.
 
 > “This computer is both broken and not broken until I open the lid.”  
-> — Every IT technician, basically Schrödinger with a support ticket.
+> Every IT technician, basically Schrödinger with a support ticket.
 
 ---
 
@@ -248,8 +246,6 @@ Yes. Yes, it does. Here are some genuine facts and reactions from the quantum wo
 - If a message can tell you it’s been read just because it was looked at, how might that change how we think about privacy?
 - If quantum computers are exploring every possible answer at once, what does that say about how we make decisions?
 - If your laptop knew this was coming, would it be jealous?
-
----
 
 Ready to crack open the box and see why quantum isn’t taking over just yet?
 
