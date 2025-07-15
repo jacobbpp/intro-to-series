@@ -253,3 +253,9 @@ footer {
   margin: 3rem 0;
   color: #888;
 }
+
+.reading-time {
+  font-size: 0.9em;
+  color: rgb(var(--gray));
+}
+
