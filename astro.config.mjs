@@ -4,7 +4,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://jacobbpp.github.io/Intro-To-Series/',
-  base: '/Intro-To-Series/',
+  site: 'https://jacobbpp.github.io/intro-to-series/',
+  base: '/intro-to-series/',
   integrations: [mdx(), sitemap()],
 });
