@@ -32,6 +32,10 @@
   font-display: swap;
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
 body {
   font-family: 'Atkinson', sans-serif;
   margin: 0;
@@ -123,6 +127,7 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: 8px;
+  display: block;
 }
 
 code {
@@ -259,3 +264,25 @@ footer {
   color: rgb(var(--gray));
 }
 
+/* === Fix mobile overflow and blog grid === */
+
+ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  justify-content: center;
+}
+
+ul li {
+  width: 100%;
+  text-align: center;
+}
+
+ul li img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
