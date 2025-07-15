@@ -32,7 +32,8 @@
   font-display: swap;
 }
 
-html, body {
+html,
+body {
   overflow-x: hidden;
 }
 
@@ -264,9 +265,9 @@ footer {
   color: rgb(var(--gray));
 }
 
-/* === Fix mobile overflow and blog grid === */
+/* === FIX: grid layout ONLY for blog posts list === */
 
-ul {
+.grid-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
@@ -276,13 +277,28 @@ ul {
   justify-content: center;
 }
 
-ul li {
+.grid-list li {
   width: 100%;
   text-align: center;
 }
 
-ul li img {
+.grid-list li img {
   max-width: 100%;
   height: auto;
   display: block;
+}
+
+/* === Normal bullet lists in prose === */
+
+.prose ul {
+  list-style-type: disc;
+  list-style-position: outside;
+  margin: 1em 0;
+  padding-left: 1.5em;
+}
+
+.prose ul li {
+  display: list-item;
+  margin: 0.3em 0;
+  padding: 0;
 }
