@@ -13,13 +13,17 @@ If you have been to a tech event in 2024 onwards, Quantum Computing has become o
 
 But what if I told you it doesn’t have to be this way?
 
-Let’s see how this first analogy goes… Imagine you are standing in a vast, pitch-black room filled with socks². You’re told there is one black sock among thousands of multi-coloured ones. A traditional computer, sharp and methodical, flicks on a torch and checks each sock, one by one. Efficient? Well, of course, how else would you do it? However, it is linear.
+Imagine you are standing in a vast, pitch-black room filled with thousands of socks. Somewhere in that sea of cotton and chaos is one black sock.
 
-Are you with me so far? Great! Let’s move on.
+A classical computer flicks on a torch and starts checking socks, one by one. Methodical. Logical. Tireless. It keeps going until it finds the one you’re after. It works. It always has. But it’s slow. It takes time.
 
-How would a quantum computer tackle the problem? Well... It doesn’t reach for the torch. It becomes the room. It exists in every corner, touches every sock at once, and simply just knows.
+A quantum computer doesn’t pick up the torch.
 
-How did we do? This is the magic of quantum. It doesn’t just change the speed of computing. It changes the very shape of it.
+Instead, it lets the socks exist in a strange state of possibility, like every sock is being checked and not checked at the same time. It uses something called superposition to explore many outcomes all at once, then relies on a bit of mathematical interference to tip the odds in favour of the right answer rising to the surface.
+
+It doesn’t instantly know the answer. But it takes a much weirder, faster, and more creative route to get there.
+
+That’s the magic of quantum. It doesn’t just change how fast we compute. It changes how we compute.
 
 This *guide* isn’t here to drown you in technical jargon. It won’t ask you to become a physicist or a code-breaking genius. Instead, it will introduce you to a new way of thinking, one built not on ones and zeroes, but on the possibility, probability, and the weird, wonderful rules that govern the tiniest particles of our universe.
 
