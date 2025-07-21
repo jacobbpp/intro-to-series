@@ -9,7 +9,7 @@ What comes to mind when you hear the words quantum computing? A blur of convolut
 
 Well, you are not alone. I promise.
 
-If you have been to a tech event in 2024 onwards, Quantum Computing has become one of those terms that gets slipped into conversation, finds its way into sexy¹ presentations, and lurks ominously in the footnotes of strategy papers, all while most people secretly hope no one ever asks them to explain what the heck it is.
+If you have been to a tech event in 2024 onwards, Quantum Computing has become one of those terms that gets slipped into conversation, finds its way into sexy presentations, and lurks ominously in the footnotes of strategy papers, all while most people secretly hope no one ever asks them to explain what the heck it is.
 
 But what if I told you it doesn’t have to be this way?
 
@@ -44,7 +44,7 @@ So, are you?
 
 Before we leap into the strangeness of quantum computing, we need to take a brief stroll down familiar ground, the world of classical computing. You know, the kind of computing we rely on every single day without really thinking about how it all works.
 
-At its core, classical computing is beautifully simple. It deals in absolutes. It is logical. Everything is either a 1 or a 0, on or off, yes or no. It’s a light switch, as long as you ignore the existence of the dimmer switch. These tiny decisions build up into the programmes and systems we use to send emails, stream videos, and moan about software updates.³
+At its core, classical computing is beautifully simple. It deals in absolutes. It is logical. Everything is either a 1 or a 0, on or off, yes or no. It’s a light switch, as long as you ignore the existence of the dimmer switch. These tiny decisions build up into the programmes and systems we use to send emails, stream videos, and moan about software updates.
 
 Think of a classical computer like the world’s most efficient librarian. You give it a title, it runs down a corridor of shelves, checks each one in sequence, and brings you back exactly what you asked for. Nothing more. Nothing less. It is fast, obedient, and entirely logical. But it always works in a straight line.
 
@@ -64,7 +64,7 @@ Let’s be clear: quantum computing isn’t here to replace classical computing.
 
 So, we’ve looked back. Next, we’ll get into what these weird quantum concepts actually mean, and why they matter more than you might think.
 
-Ready for superposition, entanglement, and a touch of magic.⁴
+Ready for superposition, entanglement, and a touch of magic.
 
 ---
 
@@ -88,7 +88,7 @@ In classical computing, bits are either 0 or 1. That is it. No drama. A switch i
 
 But quantum bits, or qubits, are rebels. They can be 0 or 1, or both at the same time, until we look at them. The moment we measure them, they snap into one reality.
 
-Think back to the coin, once you catch it, it has landed on one side.⁵
+Think back to the coin, once you catch it, it has landed on one side.
 
 That is superposition. Possibility, held delicately, until it is forced to choose.
 
@@ -218,7 +218,7 @@ And we’re only just getting started.
 
 A moment to breathe before we get into the tricky bits.
 
-You’ve just absorbed a lot. Molecules, traffic systems, and encryption that panics security teams. So, before we jump into the limitations (yes, even quantum computers have flaws), let’s enjoy a moment of quantum-flavoured fun. The term fun is thrown about way too often. Not here. Not with me.⁶
+You’ve just absorbed a lot. Molecules, traffic systems, and encryption that panics security teams. So, before we jump into the limitations (yes, even quantum computers have flaws), let’s enjoy a moment of quantum-flavoured fun. The term fun is thrown about way too often. Not here. Not with me.
 
 ---
 
@@ -263,7 +263,7 @@ Let’s be honest for a second.
 
 Quantum computing sounds exciting. It’s futuristic, it’s mysterious, it’s the stuff TED Talks and billion-pound pitches are made of. But if you’re picturing some sleek, humming machine solving world hunger before lunch, not quite. Not yet.
 
-We’re still early. Very early. Like “the internet in the 1960s” early.⁷ It works, but you probably wouldn’t want one in your living room. So, what’s the holdup? Why isn’t this thing already running the world?
+We’re still early. Very early. Like “the internet in the 1960s” early. It works, but you probably wouldn’t want one in your living room. So, what’s the holdup? Why isn’t this thing already running the world?
 
 Let me introduce you to a few of the reasons quantum computing still has its training wheels on.
 
@@ -289,7 +289,7 @@ I know. They sound fancy. But quantum machines right now are noisy. Not like a h
 
 Because the states of qubits are so delicate, tiny disturbances can lead to wrong answers. Often. This means we need quantum error correction, which is exactly as difficult as it sounds.
 
-Imagine trying to complete a jigsaw puzzle where the pieces change shape every time you blink. That’s quantum computing right now. The solution? Build bigger, better error correction. Or blink less. Probably both.⁸
+Imagine trying to complete a jigsaw puzzle where the pieces change shape every time you blink. That’s quantum computing right now. The solution? Build bigger, better error correction. Or blink less. Probably both.
 
 ---
 
@@ -305,7 +305,7 @@ We’re getting there. Slowly. But no, your smartphone is not getting a “Quant
 
 ### It Won’t Fix Everything
 
-Let’s clear up a myth while we’re here. Quantum computers are not a better version of your MacBook Pro.⁹ They won’t make Word open faster or fix your Wi-Fi. They won’t solve all the world’s problems either, just a very specific set of them.
+Let’s clear up a myth while we’re here. Quantum computers are not a better version of your MacBook Pro. They won’t make Word open faster or fix your Wi-Fi. They won’t solve all the world’s problems either, just a very specific set of them.
 
 Quantum is brilliant at exploring possibilities, simulating the natural world, and cracking incredibly complex problems that classical machines can’t touch. But if your issue is laggy video calls, you still need a better router, not a quantum chip.
 
@@ -349,7 +349,7 @@ Yes, you can run quantum code. For free. Without a lab. Or a fridge that costs m
 
 - **IBM Quantum Experience:** A cloud-based platform that lets you write quantum programs and run them on actual quantum hardware. It’s like borrowing a quantum computer for the afternoon.
 - **Microsoft’s Quantum Development Kit:** Includes Q#, a programming language made for quantum, with handy simulators to help you experiment.
-- **Qiskit by IBM:** Python-based and beginner-friendly. If you’ve dabbled¹⁰ in Python, this is your route in.
+- **Qiskit by IBM:** Python-based and beginner-friendly. If you’ve dabbled in Python, this is your route in.
 
 You don’t need to understand every equation to start playing. Just explore. Break things. See what works. That’s how everyone else got into it too.
 
