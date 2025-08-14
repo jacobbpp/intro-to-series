@@ -10,7 +10,7 @@ Check out the <a href="https://jacobbpp.github.io/intro-to-series/" target="_bla
 
 
 
-## About This Repository
+## About This Repository, Just For You, The Reader
 
 - Built using [Astro](https://astro.build/).
 - Deployed automatically via GitHub Pages.
