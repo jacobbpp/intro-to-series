@@ -19,6 +19,8 @@ Imagine teaching a dog to fetch a specific ball. You do not write a detailed ins
 
 That would be insane. Instead, you show the dog the ball, you throw it, and you reward the dog when it brings the right one back. The dog learns through a system of trial and error and feedback.
 
+When I first starting writing this, I truly didn't think I would be comparing Machine Learning to training a cute, lil' doggo.
+
 Machine learning is much the same. Instead of a human programmer writing an exhaustive, step-by-step list of rules, they give the computer a huge amount of data and a clear goal. The computer then figures out the rules for itself, making predictions, learning from its mistakes, and getting better over time.
 
 This guide isn't here to drown you in algorithms or code. It won’t ask you to become a data scientist or an expert in advanced maths. Instead, it will introduce you to a new way of thinking about how technology can learn from the world.
@@ -43,7 +45,7 @@ Each teacher has a different method, but the goal is always the same: to get sma
 
 This is the most common kind of machine learning. You give the computer a huge pile of data, and every piece of data has a label. You are essentially giving it a quiz where all the answers are already filled in.
 
-Imagine you have thousands of photos of cats and dogs, and every picture is already labelled correctly. You give this huge set of labelled photos to the computer. The machine then studies the data, finding patterns that separate the cats from the dogs—the shape of the ears, the size of the nose, the length of the tail. It builds its own internal model of what a cat is and what a dog is.
+Imagine you have thousands of photos of cats and dogs, and every picture is already labelled correctly. You give this huge set of labelled photos to the computer. The machine then studies the data, finding patterns that separate the cats from the dogs, the shape of the ears, the size of the nose, the length of the tail. It builds its own internal model of what a cat is and what a dog is.
 
 After it is done "learning," you can give it a new, unlabelled photo, and it will be able to tell you whether it is a cat or a dog. This is how your email knows if a message is spam, or how your phone can identify a face in a photo. It learned from a teacher, and now it can do the job on its own.
 
@@ -81,7 +83,7 @@ This same method is used by Spotify to build your Discover Weekly playlist, by A
 
 Every time you open your email inbox, a machine learning model is working quietly in the background, sorting messages into "inbox," "junk," or "promotions." It learned to do this by being shown millions of emails, all of which were already labelled by humans. It learned to spot the difference between a legitimate message and a suspicious one with a dodgy link. This is a classic example of **supervised learning** working to make your life easier and more secure.
 
-The same principle applies to credit card fraud detection. The model is trained on millions of transactions, learning what a "normal" purchase looks like for you. When it spots a transaction that is out of character—say, a huge purchase in a different country—it flags it as potentially fraudulent.
+The same principle applies to credit card fraud detection. The model is trained on millions of transactions, learning what a "normal" purchase looks like for you. When it spots a transaction that is out of character, say, a huge purchase in a different country, it flags it as potentially fraudulent.
 
 ##### **The Computer that "Sees"**
 
@@ -99,13 +101,13 @@ Alright, we've talked about the magic. Now let's talk about the reality. Just be
 
 The single most important rule of machine learning is this: the models are only as good as the data they are trained on. A human programmer might be a genius, but if they feed their algorithm flawed data, the result will be a flawed model. It is the digital version of a student who learns from a dodgy textbook.
 
-This is a massive ethical issue. If a model is trained on a dataset that reflects existing social biases—for example, a hiring algorithm trained on decades of data where men were disproportionately hired for leadership roles—the model will learn to perpetuate that bias. It is not being malicious. It is simply doing what it was taught. This is how a tool meant to make decisions fair and objective can accidentally make them more biased than ever before.
+This is a massive ethical issue. If a model is trained on a dataset that reflects existing social biases, for example, a hiring algorithm trained on decades of data where men were disproportionately hired for leadership roles, the model will learn to perpetuate that bias. It is not being malicious. It is simply doing what it was taught. This is how a tool meant to make decisions fair and objective can accidentally make them more biased than ever before.
 
 ##### **The Black Box Problem**
 
 Here's the one that keeps data scientists up at night. Many of the most powerful machine learning models, especially those built using deep learning, are so complex that not even the people who designed them can fully explain how they work. You can see what goes in and what comes out, but what happens in between is a total mystery.
 
-This is the **"black box" problem**. Imagine a doctor using a machine learning model to diagnose a patient. The model might say, "This patient has a 95% chance of having a certain disease." That is a very powerful answer. But what if the doctor asks, "Why?" The model cannot answer. It cannot explain the thousands of correlations and statistical decisions it made to reach that conclusion. When decisions have life-changing consequences—in medicine, in finance, or in the criminal justice system—that lack of transparency can be a serious problem.
+This is the **"black box" problem**. Imagine a doctor using a machine learning model to diagnose a patient. The model might say, "This patient has a 95% chance of having a certain disease." That is a very powerful answer. But what if the doctor asks, "Why?" The model cannot answer. It cannot explain the thousands of correlations and statistical decisions it made to reach that conclusion. When decisions have life-changing consequences, in medicine, in finance, or in the criminal justice system, that lack of transparency can be a serious problem.
 
 ---
 
