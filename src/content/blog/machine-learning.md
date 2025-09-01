@@ -1,14 +1,9 @@
 ---
-title: 'Machine Learning, The Computer That Teaches Itself'
-description: 'Ever wonder how Netflix knows exactly what film to suggest next? That's not magic, it's machine learning, and it's everywhere.
-
-This article takes you behind the curtain, explaining how a computer can teach itself to identify spam, spot credit card fraud, and even help navigate a self-driving car. We'll explore a new way of thinking about technology, one built not on rigid instructions, but on the power of patterns and predictions. It’s about understanding the silent intelligence that's shaping our world, without needing to become a data scientist.'
-pubDate: 'Sep 01 2025'
+title: 'Machine Learning'
+description: 'Machine Learning Intro-To'
+pubDate: 'Aug 30 2025'
 heroImage: '../../assets/machine-learning.jpg'
 ---
-
-### **Intro to Machine Learning: The Computer That Teaches Itself**
-
 #### **Part 1: The Magic and the Science**
 
 When you open Netflix, what do you see? A long list of things you will probably like. When you check your emails, a small, quiet part of the system has already sorted the important messages from the junk. When you ask your phone for directions, it has already found the fastest way to get you there, accounting for traffic you cannot even see.
@@ -17,7 +12,12 @@ We live in a world of smart predictions, and most of them are made possible by o
 
 But what is it, really? A lot of people think it is magic. That somewhere inside the silicon, a computer has found a way to become a modern-day oracle. The truth is much more grounded, and in many ways, more interesting.
 
-Imagine teaching a dog to fetch a specific ball. You do not write a detailed instruction manual for the dog that says, "Step 1: Orient yourself towards the red ball. Step 2: Calculate the trajectory..." and so on. That would be insane. Instead, you show the dog the ball, you throw it, and you reward the dog when it brings the right one back. The dog learns through a system of trial and error and feedback.
+Imagine teaching a dog to fetch a specific ball. You do not write a detailed instruction manual for the dog that says:
+
+1. Orient yourself towards the red ball. 
+2. Calculate the trajectory... and so on. 
+
+That would be insane. Instead, you show the dog the ball, you throw it, and you reward the dog when it brings the right one back. The dog learns through a system of trial and error and feedback.
 
 Machine learning is much the same. Instead of a human programmer writing an exhaustive, step-by-step list of rules, they give the computer a huge amount of data and a clear goal. The computer then figures out the rules for itself, making predictions, learning from its mistakes, and getting better over time.
 
@@ -35,11 +35,11 @@ Machine learning is not magic. But knowing how it works feels a bit like having 
 
 #### **Part 2: The Three Ways a Computer Learns**
 
-So, we have established that a machine can learn without you explicitly telling it every single step. But how does it do that? It is a bit like a student with three different teachers. Each teacher has a different method, but the goal is always the same: to get smarter.
+So, we have established that a machine can learn without you explicitly telling it every single step. But how does it do that? It is a bit like a student with three different teachers. 
 
-Let's meet the three teachers.
+Each teacher has a different method, but the goal is always the same: to get smarter.
 
-##### **The Teacher Method: Supervised Learning**
+##### **Teacher 1: The Teacher Method: Supervised Learning**
 
 This is the most common kind of machine learning. You give the computer a huge pile of data, and every piece of data has a label. You are essentially giving it a quiz where all the answers are already filled in.
 
@@ -47,7 +47,7 @@ Imagine you have thousands of photos of cats and dogs, and every picture is alre
 
 After it is done "learning," you can give it a new, unlabelled photo, and it will be able to tell you whether it is a cat or a dog. This is how your email knows if a message is spam, or how your phone can identify a face in a photo. It learned from a teacher, and now it can do the job on its own.
 
-##### **The Explorer Method: Unsupervised Learning**
+##### **Teacher 2: The Explorer Method: Unsupervised Learning**
 
 Now imagine you have a giant box of LEGO bricks. They're all mixed up, different shapes, sizes, and colours. You don't have time to sort them yourself, so you give the box to a computer and say, "Go on then. Organise these for me."
 
@@ -55,7 +55,7 @@ The computer has no labels, no "teacher" telling it what a red block or a round 
 
 This is **unsupervised learning**. It is used for things like customer segmentation. A retail company might give a machine learning model all of its sales data, and the model might find that a certain group of customers tends to buy baby products and coffee on the same day. It's not a rule the company knew, but the computer found the pattern all on its own.
 
-##### **The Trial and Error Method: Reinforcement Learning**
+##### **Teacher 3: The Trial and Error Method: Reinforcement Learning**
 
 This is the closest a computer comes to being an actual student. It's a method built on rewards and penalties. You put the machine in an environment and give it a clear goal, like winning a game of chess.
 
@@ -117,6 +117,8 @@ The best way to truly grasp this field is to get your hands dirty. You do not ne
 
 Beyond that, you should follow the people who are building this future. Keep an eye on the announcements from Google, Microsoft, and OpenAI. Search for AI researchers on LinkedIn or X. You will start spotting the same names, the same breakthroughs, and the same debates. Before long, you will be the one explaining supervised learning to someone at a dinner party.
 
-The point is this: you are no longer just a user of technology. You are a citizen of a world where technology is learning. You now have the lens to see it, the language to talk about it, and the perspective to question it. This is not the end of a guide. It is the beginning of a conversation.
+The point is this: you are no longer just a user of technology. You are a citizen of a world where technology is learning. You now have the lens to see it, the language to talk about it, and the perspective to question it. 
+
+This is not the end of a guide. It is the beginning of a conversation.
 
 **Written by Jacob Reilly-Cooper**
