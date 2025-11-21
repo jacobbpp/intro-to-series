@@ -8,7 +8,10 @@ You can explore the live site here:
 
 Check out the <a href="https://jacobbpp.github.io/intro-to-series/" target="_blank" rel="noopener noreferrer">Intro To Series site</a>.
 
+## Articles currently on the site
 
+- Quantum Computing
+- Machine Learning
 
 ## About This Repository, Just For You, The Reader
 
