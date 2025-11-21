@@ -53,7 +53,7 @@ After it is done "learning," you can give it a new, unlabelled photo, and it wil
 
 Now imagine you have a giant box of LEGO bricks. They're all mixed up, different shapes, sizes, and colours. You don't have time to sort them yourself, so you give the box to a computer and say, "Go on then. Organise these for me."
 
-The computer has no labels, no "teacher" telling it what a red block or a round block is. Instead, it looks for patterns on its own. It might sort them into piles based on colour, or shape, or even size. It finds structure in a sea of chaos without any guidance.
+The computer has no labels, no **teacher** telling it what a red block or a round block is. Instead, it looks for patterns on its own. It might sort them into piles based on colour, or shape, or even size. It finds structure in a sea of chaos without any guidance.
 
 This is **unsupervised learning**. It is used for things like customer segmentation. A retail company might give a machine learning model all of its sales data, and the model might find that a certain group of customers tends to buy baby products and coffee on the same day. It's not a rule the company knew, but the computer found the pattern all on its own.
 
